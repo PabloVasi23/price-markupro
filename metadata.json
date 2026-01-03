@@ -1,0 +1,5 @@
+{
+  "name": "PriceMarkup AI",
+  "description": "Upload an image of a menu, invoice, or shopping cart. The app uses AI to extract product prices and allows you to instantly apply a percentage markup to calculate new pricing.",
+  "requestFramePermissions": []
+}
